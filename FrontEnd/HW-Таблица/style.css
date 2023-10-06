@@ -1,0 +1,55 @@
+
+div.my-special-div {
+
+    
+    background-color: black;
+    margin-bottom: 100px;
+    padding: 100px;
+    height: 1000px;
+
+}
+    
+h1.my-special-div {
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 120%;
+
+}
+ table {
+    background-color: aliceblue;
+     border-collapse: collapse ;
+     text-align: center;
+     margin: auto;
+     
+
+
+
+
+     
+    }
+ th{
+     border: 1px solid black;
+     text-align: center;
+        }
+        th:first-child {
+            text-align: left;
+        }
+
+        th {
+            vertical-align: middle;
+        
+        }
+ td{
+     border: 1px solid black;
+     text-align: center;
+        }
+        td:first-child {
+            text-align: left;
+        }
+
+        td {
+            vertical-align: middle;
+        }
+    
+
+

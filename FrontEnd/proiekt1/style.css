@@ -1,0 +1,57 @@
+h1   {color: red;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+div {background-color: cornflowerblue;
+    margin-bottom: 50px;
+    padding: 50px;
+
+}
+.post-1 {
+    background-color: rgb(red, green, blue);
+}
+.post-2 {
+    background-color: deeppink;
+}
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 36px;
+
+}
+
+
+p    {color: blue;
+    
+    margin-top: 20px;
+    margin-bottom: 100px;
+    font-size: 24px;
+}
+
+
+img  {
+    display: block;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 30px;
+    margin-top: 25px;
+
+}
+
+
+
+
+/*
+ctrl+/- creaza comentariu
+selector {
+    svoistva znacenia;}
+    svoistva
+    a {
+    font-size: 40px;
+    background-color: cadetblue;
+}
+*/
